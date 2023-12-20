@@ -1,0 +1,16 @@
+.field-form {
+display: flex;
+justify-content: space-between;
+}
+
+.field-form__field {
+
+}
+
+.field-form__button {
+width: 61px;
+height: 34px;
+border-radius: 50px;
+background-color: #0050FF;
+color: white;
+}
